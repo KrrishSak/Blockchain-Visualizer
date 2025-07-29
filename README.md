@@ -43,7 +43,14 @@ _Add screenshots of your UI here if possible_
 - You can tamper data and observe the hash inconsistency, simulating an invalid chain
 
 ## 📦 Installation
+### Make sure you have these two files committed:
+package.json
+package-lock.json
 
+Then, just run:
+npm install
+
+…to rebuild the node_modules folder locally.
 ```bash
 # Clone the repo
 git clone https://github.com/yourusername/blockchain-visualizer.git
