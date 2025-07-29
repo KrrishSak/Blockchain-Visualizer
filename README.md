@@ -1,5 +1,5 @@
-# Blockchain-Visualizer
-# 🔗 Blockchain Visualizer
+# BlockSosial
+# 🔗 BlockSocial
 
 A simple and interactive blockchain simulation built using **React**, **TypeScript**, and **Tailwind CSS**. This project is intended to help students and developers understand the core concepts of blockchain technology by visualizing how blocks are created, added to a chain, and validated.
 
